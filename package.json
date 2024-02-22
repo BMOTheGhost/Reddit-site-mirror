@@ -2,7 +2,6 @@
   "name": "reactapp",
   "version": "1.0.0",
   "description": "This is a training app for React course",
-  "homepage": "https://bmotheghost.github.io/Reddit-site-mirror",
   "engines": {
     "node": "14.x"
   },
